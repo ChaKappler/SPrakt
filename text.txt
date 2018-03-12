@@ -1,0 +1,13 @@
+-lxplus: worked
+-Cloning git: worked
+-Setup CVMFS: worked
+-User certifikate: information from email
+-Checking user certificate: did not work, command not found
+-Basics of LCG: first to commands worked, rest did not
+-PanDA: worked after using setupATLAS
+-PyRoot: cannot be executed 
+-pathena: did not work
+-ATLAS Metadata: skipped
+-Rucio: worked
+
+It sometimes unclear what we were doing.
